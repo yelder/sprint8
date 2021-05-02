@@ -26,6 +26,7 @@
     "babel-plugin-wildcard": "6.0.0",
     "babel-preset-react": "6.24.1",
     "cross-env": "7.0.2",
+    "css-loader": "^5.2.4",
     "file-loader": "6.2.0",
     "html-webpack-plugin": "4.5.0",
     "react-styleguidist": "11.1.3",
