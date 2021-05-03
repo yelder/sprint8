@@ -1,5 +1,5 @@
 
-import Jokes from "./components/Jokes"
+import JokesWeather from './components/JokesWeather'
 import Layout from './components/Layout'
 import Row from 'react-bootstrap/Row'
 import Col from 'react-bootstrap/Col'
@@ -15,7 +15,7 @@ function App() {
             <Col md={6}>
             <Row className="justify-content-md-center align-items-center mt-1">
               {/* JOKE APP */}
-              <Jokes />
+              <JokesWeather />
             </Row>
           </Col>
         </Row>

@@ -1,0 +1,24 @@
+.weather { 
+    margin-top: 50px;
+    font-weight: bold;
+    color: white;
+}
+
+.titleWeather{
+    font-weight: bold;
+    font-size: 40px;
+    color: rgb(250, 246, 250);
+    text-align: center;
+    background-color: #c57709;
+   
+}
+.weather-text {
+    font-size: 25px;
+    color: white;
+}
+
+.weather-temp {
+    font-size: 35px;
+    color:#c57709
+}
+
